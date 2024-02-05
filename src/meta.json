@@ -1,0 +1,1725 @@
+{
+    "data": {
+        "project": {
+            "apiComponents": {
+                "ApiContainer": {
+                    "id": "ApiContainer",
+                    "children": []
+                }
+            },
+            "assets": {
+                "65b7e6892b099480da90d3ba": {
+                    "name": "305soft-high-resolution-logo-black-on-transparent-background.png",
+                    "originalname": "305soft-high-resolution-logo-black-on-transparent-background.png",
+                    "externalStorageType": "GCS",
+                    "externalName": "users/65aea2f0bdfbccb613c6c8c8/projects/65b7e6892b099480da90d3b7/assets/65b7e6892b099480da90d3ba",
+                    "backendURI": "/project/65b7e6892b099480da90d3b7/getasset/65b7e6892b099480da90d3ba",
+                    "size": "53612",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "_id": "65b7e6892b099480da90d3ba",
+                    "createdAt": "2024-01-25T15:16:02.881Z",
+                    "updatedAt": "2024-01-25T15:16:02.881Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea2f0bdfbccb613c6c8c8/projects/65b7e6892b099480da90d3b7/assets/65b7e6892b099480da90d3ba?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240205%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240205T171441Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=88f83e92eede709774061ab25524ebabc58a7237644061971778de8f90866f4b57723720003b17bf5af5a4b02c26ec9be31d78343b15c63d4942c1b35d74ceaadccfcde225ea72deb8ea6f2d9c9736945c38e3d6763a23c1f12106063b46d90c9c466d111a9be474f4b4ff8c9718e994a4ada09921b56b3ad6e12782b61b89991ca7da7cf6a3c0b4c1561731a155fea95806bf445d8441481fbb32a2474d67d18ab25c1e0c467c309edf6f802cba62c54d3fd7fac5dcc0add556b1d4845be16ac8d4756d82c3403e1ddb827a03b4dd25145b9e853deb5eb7113a2a75daf7d5213569439bb101c3604b470d7500a466d39aad62d5fa23c305cec6d25539636310",
+                    "signedUrlExpirationTime": 1707326081149
+                }
+            },
+            "backendUpgradeVersion": 24,
+            "blockly": {
+                "9002f80f-141a-4a3b-b627-3dabe0caf369": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "5d3169af-1dfd-4c24-9b34-3d685a0fcc05": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                }
+            },
+            "categories": [],
+            "components": {
+                "children": [
+                    {
+                        "id": "5d3169af-1dfd-4c24-9b34-3d685a0fcc05"
+                    },
+                    {
+                        "id": "9002f80f-141a-4a3b-b627-3dabe0caf369"
+                    }
+                ]
+            },
+            "figmaComponents": null,
+            "description": null,
+            "icon": null,
+            "projectName": "Translator App",
+            "settings": {
+                "teamId": null,
+                "appName": null,
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "",
+                "firebaseDatabaseURL": "",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
+                "permissions": {
+                    "ios": {}
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "projectSettings": {
+                "teamId": null,
+                "appName": null,
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "",
+                "firebaseDatabaseURL": "",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
+                "permissions": {
+                    "ios": {}
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "hasAdmob": false,
+            "hasBluetoothLowEnergy": null,
+            "hasPushNotification": false,
+            "hasAssistant": null,
+            "dataSourceLinks": [],
+            "localDataSources": [
+                {
+                    "id": "b6a0fdae-90e1-4ccc-948d-7f9100d716a8",
+                    "dataSource": {
+                        "id": "22bb0d93-8a9a-461c-8991-59431fed2fc6",
+                        "name": "Language Codes",
+                        "owner": "65aea265b85de05286c4a65b",
+                        "collections": [
+                            {
+                                "id": "077fb98d-befd-4877-b941-05e5fdf3e3dd",
+                                "name": "Table 1",
+                                "label": "Table 1",
+                                "fields": [
+                                    {
+                                        "id": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                        "name": "column1",
+                                        "label": "Column 1",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                        "name": "column2",
+                                        "label": "Column 2",
+                                        "type": "NUMBER"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": [
+                                        {
+                                            "cursor": "1c779a7a-9d39-4aaa-a60d-82af5c2963ee",
+                                            "node": {
+                                                "id": "6615ed4d-238a-4cb3-bf65-62b4e004ecaf",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Azerbaijani"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "az"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "a70ae420-80a6-4d88-add7-8aae9638db32",
+                                            "node": {
+                                                "id": "254caa30-a101-43c6-a2d1-7e4b35e4390a",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Albanian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "sq"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "dc7c8475-0dbb-486b-a29b-e88ac5cea50a",
+                                            "node": {
+                                                "id": "a4dea9e4-4ee6-4f7c-8f99-f741d29dddcc",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Amharic"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "am"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "704fa574-c627-4cf2-ae09-b2adc3019a33",
+                                            "node": {
+                                                "id": "f07e5ec1-f58c-439d-9881-f2bf3784faa3",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "English"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "en"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "eebfe3db-5133-4e81-a1d6-47ea4e3df74a",
+                                            "node": {
+                                                "id": "7f09b3cf-9216-43c8-af69-b98a7e801ba4",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Arabic"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ar"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "3df9426b-0419-420c-9f6d-20c41dcea2b5",
+                                            "node": {
+                                                "id": "fd6d946a-528f-4003-bece-655b6a3b75da",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Armenian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "hy"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "3796ccf5-ec01-4a5f-b2dc-a4a810f26ce7",
+                                            "node": {
+                                                "id": "3947898b-7d82-442b-b83f-e09cc837b6ca",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Afrikaans"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "af"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "93eae6e1-ec6b-42cd-b162-3d3f1865ec16",
+                                            "node": {
+                                                "id": "2811b53f-2ae7-4f7c-840f-806b3f925324",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Basque"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "eu"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "a2dd99b6-f570-4a02-96d4-958f40d00812",
+                                            "node": {
+                                                "id": "bdc7ffb1-c856-4bee-a227-790d3d762540",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Bashkir"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ba"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "b5a14b2f-21ed-486a-b507-3dd203ce54c5",
+                                            "node": {
+                                                "id": "9e33f35a-912b-4a68-9163-0065f52e6e1f",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Belarusian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "be"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "2c91088e-6639-447b-91a8-cfc1f46bc1f0",
+                                            "node": {
+                                                "id": "189648ea-cd25-4e25-889c-7f315cf17c88",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Bengal"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "bn"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "97e3383c-f5bc-4bba-8719-33b83ec8f26a",
+                                            "node": {
+                                                "id": "cc4d9901-ad2c-4045-8e1d-640a72a643e6",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Burmese"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "my"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "c06fe61b-b60c-45ba-927d-39d25f27ea71",
+                                            "node": {
+                                                "id": "5c2d8076-8859-4ed1-a557-2a350793eca4",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Bulgarian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "bg"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "af38a7a4-0d3a-48ba-ac4b-632f4248950c",
+                                            "node": {
+                                                "id": "b6f9f3d4-50ee-48de-8691-f3e925433cad",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Bosnian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "bs"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "98ceb8a3-1f69-4105-b469-092d9194bcd7",
+                                            "node": {
+                                                "id": "a7d04957-b6d4-4e92-b35c-8b4d2c2f52c3",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Welsh"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "cy"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "4c3597d5-311b-4c01-86f5-84d471deaa8e",
+                                            "node": {
+                                                "id": "3543b524-729a-4bb9-ba42-e27579491f07",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Hungarian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "hu"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "1faf5f9d-b188-40e4-8a5b-5fa95c65ba62",
+                                            "node": {
+                                                "id": "aa7a99c9-f2bd-4e26-a404-7886c4938813",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Vietnamese"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "vi"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "0994183c-da58-4939-b6c0-57012281c352",
+                                            "node": {
+                                                "id": "c851c7dd-93e1-4e6e-bfe4-9604363b7c65",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Haitian (Creole)"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ht"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "e4df30bc-a11f-4197-9b4f-8b3c83311494",
+                                            "node": {
+                                                "id": "dcbe5238-990f-49fd-bf6b-30d4b8480a23",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Galician"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "gl"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "7e744d66-2ea7-43cb-ad60-7f44f40421bb",
+                                            "node": {
+                                                "id": "b514dd75-bed9-49ac-9c99-6337adb7fc8d",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Dutch"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "nl"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "6a107170-0e3a-40ba-ae2e-3647e78e2672",
+                                            "node": {
+                                                "id": "540344b1-a714-4bcc-887c-149a57088716",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Hill Mari"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "mrj"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "ea08f221-ba20-472e-8d5a-99a93fd2bbef",
+                                            "node": {
+                                                "id": "12f36a10-5b66-4ab4-b8cc-cd453f0addf3",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Greek"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "el"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "0f91646e-30ec-45b8-91f6-4f898cba2fbf",
+                                            "node": {
+                                                "id": "18e9ee43-7776-4782-a8ac-4c87b1aea4d0",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Georgian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ka"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "95ed621d-ec23-4e0c-a699-3bdfc9735d15",
+                                            "node": {
+                                                "id": "4491242e-1711-4d5b-8f85-318fb17c818f",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Gujarati"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "gu"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "c936b846-8f0e-4d85-83ad-35dbd19d5f20",
+                                            "node": {
+                                                "id": "9781d812-9221-422e-afe3-6757e698ab1a",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Danish"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "da"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "f2b41af5-80f4-4f42-9852-7dfe58ebfe8f",
+                                            "node": {
+                                                "id": "80b1fcc8-e1d1-481e-853d-69787651bfd2",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Hebrew"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "he"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "77241260-5cda-460a-a83b-80ec36cd3851",
+                                            "node": {
+                                                "id": "901c9840-2c1b-4bd5-b2e0-239ced91b065",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Yiddish"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "yi"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "e46dc0aa-ca0a-4c68-a0e5-72b79dc20f14",
+                                            "node": {
+                                                "id": "5b25dc96-ac78-45d0-be9c-e9f71de8a9d3",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Indonesian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "id"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "bc2179a3-f60e-4ed4-bfd8-d6cd38a52ca6",
+                                            "node": {
+                                                "id": "04cddc6f-fa67-4939-b6ed-f06a6f93b0d4",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Irish"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ga"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "97eb6c03-136a-4160-b9c7-65f84640f9b3",
+                                            "node": {
+                                                "id": "c1612a63-c7fc-434b-81ee-36a612134897",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Italian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "it"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "f543f0c8-5220-41f1-8231-1f26a89069fa",
+                                            "node": {
+                                                "id": "44dd01df-061d-470c-99bf-e6b859b435b5",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Icelandic"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "is"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "eed7b7d6-c2af-420a-90d5-97224ae5a075",
+                                            "node": {
+                                                "id": "74d15ffa-d107-4186-a3d4-6386a1a63ac8",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Spanish"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "es"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "046160de-f377-41b0-82a7-8d90ac92e9c4",
+                                            "node": {
+                                                "id": "c45a7b71-cea2-40ba-9c20-294555bf2b90",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Kazakh"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "kk"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "c601b365-3dae-441b-ac58-7a863f8397a9",
+                                            "node": {
+                                                "id": "a6da1a8d-2884-4054-ada6-e5809aea39b8",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Kannada"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "kn"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "9f23ff3b-fa02-4ad2-bc65-1826608dca80",
+                                            "node": {
+                                                "id": "5529d723-360d-4c1e-9a8d-d5c9427bbe7f",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Catalan"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ca"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "825e2055-5cc4-4d80-bf5b-27ac8a0cbdd3",
+                                            "node": {
+                                                "id": "37baf18d-f176-473f-9ed8-405feb32d4c9",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Kirghiz"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ky"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "b5783a49-1ce8-4c25-b9cb-b8927f67714d",
+                                            "node": {
+                                                "id": "5361a151-cba7-4b33-a2b5-c0d54e118f97",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Chinese"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "zh"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "a5a564f6-ea5a-4e11-97b2-27e753dcc625",
+                                            "node": {
+                                                "id": "7c6ab075-ce26-45b7-b36f-39753697ebbb",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Korean"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ko"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "1b5338e7-24a7-4b81-b6e1-4cd0b08bbe23",
+                                            "node": {
+                                                "id": "117a2a12-1f67-4717-8ee7-0e25b518d25f",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Xhosa"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "xh"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "291ec814-4794-45d9-b549-301a279a834d",
+                                            "node": {
+                                                "id": "f46f7d2f-9300-4f3b-b22d-1fa63074c8cd",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Khmer"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "km"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "092c239f-d052-4059-bc0f-fc1bf6e79ac2",
+                                            "node": {
+                                                "id": "d3caaeeb-9031-465d-8eaa-fdf363db0744",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Laotian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "lo"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "4d41e533-1f91-4196-90e7-b0dd93c05c6d",
+                                            "node": {
+                                                "id": "90a62926-14cd-4cae-90e5-e2b990ca254f",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Latin"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "la"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "a3d23533-2322-4e79-8dbc-dc16084b8c96",
+                                            "node": {
+                                                "id": "7f52f2c3-207d-4631-8a4f-e3a72b23e117",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Latvian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "lv"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "aee2e678-8071-4120-87fd-6f62bfdf131e",
+                                            "node": {
+                                                "id": "9d66be50-f2d0-496a-8a16-7b612171fa33",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Lithuanian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "lt"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "acd924d5-96c0-437d-a13d-aea83eabc228",
+                                            "node": {
+                                                "id": "7d44e513-fad4-4937-b430-fb8130c3dd88",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Luxembourg"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "lb"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "74f12498-a08c-4f76-959a-02da5b6a762e",
+                                            "node": {
+                                                "id": "69a3784b-3f66-42c4-905a-a5f302ef0978",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Malagasy"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "mg"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "ec236301-ca97-4a3c-ba3f-88d7475205fd",
+                                            "node": {
+                                                "id": "120452b4-96f2-4d57-a474-317a6f604ae8",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Malay"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ms"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "70e5cb95-c4ed-423c-83e6-2ea15e1b43d9",
+                                            "node": {
+                                                "id": "54b84af6-bfc5-4a3a-93bc-3773e7a51689",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Malayalam"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ml"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "1100720f-f2a6-4971-82a7-1d6e144602c1",
+                                            "node": {
+                                                "id": "125d2133-2f50-46db-8e56-5eb3057e57dc",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Maltese"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "mt"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "c7d900de-0813-41dd-8456-469d8c77382d",
+                                            "node": {
+                                                "id": "af854176-9dd5-4c23-aabc-86002124f901",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Macedonian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "mk"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "880831b9-e544-4627-9342-53544de28000",
+                                            "node": {
+                                                "id": "5b3a0f2b-d8ef-480a-8cf7-b38e5922ecfd",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Maori"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "mi"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "60a0828e-f8a2-4825-808e-89b1dbed0251",
+                                            "node": {
+                                                "id": "da24a934-6dc2-4189-9719-dec931ab2a7e",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Marathi"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "mr"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "e8221243-558f-46dd-bb9a-c223ef2332af",
+                                            "node": {
+                                                "id": "d6a309e4-2241-4de1-b0ba-095a0252e34b",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Mari"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "mhr"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "7f6a9788-506d-4d48-bc72-a85c57cd0424",
+                                            "node": {
+                                                "id": "3f9c6242-f1df-443d-960d-f4b81c06e97d",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Mongolian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "mn"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "9db2548e-a492-4858-9834-750420087d98",
+                                            "node": {
+                                                "id": "ffb5be1c-43c0-4db4-9e14-4065c55583f8",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "German"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "de"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "496667da-4485-48ce-bd52-7fca74f6ad22",
+                                            "node": {
+                                                "id": "6791fa8b-328b-4eaf-8741-222c5dc52be9",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Nepalese"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ne"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "ac98e343-3af8-4eaf-a7bd-02d408448bd4",
+                                            "node": {
+                                                "id": "f29ff935-a7fa-4f34-b83a-d2aea62d651a",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Norwegian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "no"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "f62173c1-ef40-4576-9eb2-62888612c5b9",
+                                            "node": {
+                                                "id": "ed208385-0a8a-413d-8ea8-f0c1c6ac1f65",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Punjabi"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "pa"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "c7fed35a-5991-4326-96e6-40d854f008ec",
+                                            "node": {
+                                                "id": "de4db4cf-de1e-4be3-83bc-ade38c06fe75",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Papiamento"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "pap"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "86b6b53c-5eac-4cf3-a306-67e0a781b31e",
+                                            "node": {
+                                                "id": "9b9f5fa5-251d-4a70-aaa2-aaedb825db26",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Persian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "fa"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "a7986a50-e7f5-4376-b800-24e032f45209",
+                                            "node": {
+                                                "id": "9d048dfe-490c-44f3-bccb-e866396aeda7",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Polish"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "pl"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "b1e8efb1-4cbc-40c0-8636-7aef0bdcd4dd",
+                                            "node": {
+                                                "id": "efefceb6-9019-4121-9b27-0fe51ad6181e",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Portuguese"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "pt"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "c8c72eba-2082-453c-9180-fced4ceb8a0a",
+                                            "node": {
+                                                "id": "b178fd35-7dc3-4ebe-b9bf-65f0054fa787",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Romanian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ro"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "dbc468e1-533f-432b-baed-3f933e4ff609",
+                                            "node": {
+                                                "id": "ae04d574-2a3b-41d9-babb-96a31cef066e",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Russian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ru"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "66ad04e1-a60c-43d1-8599-1e59bc8fd124",
+                                            "node": {
+                                                "id": "dab138af-b42b-42af-bac8-0a03ae714487",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Cebuano"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ceb"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "49c3a5fa-c3ef-42e7-b566-afb053de6bb0",
+                                            "node": {
+                                                "id": "a5644cd9-d147-455a-9665-569c6ef0af5c",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Serbian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "sr"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "dca6c899-a210-4fdb-8439-1106bcf5c9f9",
+                                            "node": {
+                                                "id": "ff2e7d38-4b3a-48e7-80d7-1303156ba010",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Sinhalese"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "si"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "1e6530ff-7fc7-4841-a75d-8d2d85e08173",
+                                            "node": {
+                                                "id": "b45c4fff-ce28-4f0b-aef2-2f1baa030e9b",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Slovak"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "sk"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "bcfe3262-1235-48f2-a59b-f5946124a7a7",
+                                            "node": {
+                                                "id": "233d5719-1390-442d-8fa1-019ec54edfd3",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Slovenian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "sl"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "6374b979-038f-4495-b2f4-7e33ba91864c",
+                                            "node": {
+                                                "id": "adf0202d-0bd6-4e4f-b5a4-af81f66a1c5e",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Swahili"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "sw"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "2fd0c1ab-1bda-4e29-badd-931395e6b176",
+                                            "node": {
+                                                "id": "758fe8a3-52d5-49d8-9d00-bb7f6ca58d38",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Sundanese"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "su"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "4bdeac20-15b1-4cf9-b11d-00c4b1d06287",
+                                            "node": {
+                                                "id": "d65e5996-fb65-47d6-a530-098213e5a093",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Tajik"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "tg"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "13d3269e-ad43-4a45-b1d4-0cea7aec673e",
+                                            "node": {
+                                                "id": "32ff9250-cc31-4fd9-89aa-83963f4e2089",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Thai"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "th"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "4b69aa59-662f-4791-b614-a216da9f8ff7",
+                                            "node": {
+                                                "id": "ae72d004-331e-4217-aed5-b8355e181ee3",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Tagalog tl"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": ""
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "18a1059e-f649-47fa-9489-843a4e237db3",
+                                            "node": {
+                                                "id": "0b931bd0-e402-4ba0-b770-87233dae1e06",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Tamil"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ta"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "f2d813e4-ea46-4bbb-ab59-bc26f6f83d65",
+                                            "node": {
+                                                "id": "666c1b3d-92a2-4f7d-903c-c69cbc2b4c4f",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Tatar"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "tt"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "d5d35a4a-1389-4484-8fd8-66c93c6df753",
+                                            "node": {
+                                                "id": "8409386b-8c15-482a-b955-4b61057c2465",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Telugu"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "te"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "651c4b42-6017-4c48-90f3-ba32bf214bfa",
+                                            "node": {
+                                                "id": "c884f0cd-9c6a-4916-8698-9f26d799b7f2",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Turkish"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "tr"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "3d04ebdb-2743-422b-8e32-6ed54c35e6c9",
+                                            "node": {
+                                                "id": "7c844342-eaae-41e0-a0c6-b92c6b527923",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Udmurt"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "udm"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "b79bfcf7-c4e7-4b08-bf93-dc56e7fec266",
+                                            "node": {
+                                                "id": "1b5b80f6-b609-4923-88dc-17d193079dfd",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Uzbek"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "uz"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "48c176dd-513b-45c9-9ebd-fbbc020dfc80",
+                                            "node": {
+                                                "id": "f7586ebf-3dc7-4344-8095-7b4ff2acb3a0",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Ukrainian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "uk"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "b9a39db2-b28d-4703-809c-3d6d5df5c2d4",
+                                            "node": {
+                                                "id": "9d3f3a9c-5bef-4cd3-bac6-591baaa241af",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Urdu"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ur"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "f6f65581-b8b3-4964-bcab-d9e46ef3c031",
+                                            "node": {
+                                                "id": "5b4ca68f-09fd-4ab9-aa0f-160eb1718aff",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Finnish"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "fi"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "41169188-44e4-4d81-9cf0-dc5e358af6c9",
+                                            "node": {
+                                                "id": "b17bd603-dfcf-4f42-bc78-3709cd19830b",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "French"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "fr"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "f9652a0b-04a1-431f-a672-4262faaaa74f",
+                                            "node": {
+                                                "id": "718332ee-f372-4904-a977-b1acd1eb0d26",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Hindi"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "hi"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "cdeb2c1a-e37d-4564-9b79-0d8131b43f0e",
+                                            "node": {
+                                                "id": "bdbfee94-f65e-4f5b-b311-da0e32df8e6b",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Croatian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "hr"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "de29ae51-b63b-4c84-8ad2-5691322c8605",
+                                            "node": {
+                                                "id": "8551d436-3083-45de-9ecc-664071503823",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Czech"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "cs"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "a8193722-13af-4bfc-b4a5-91ce0e6b9d72",
+                                            "node": {
+                                                "id": "d0729471-0c0e-437a-b070-68014537da03",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Swedish"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "sv"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "ebc5d8e4-3809-42f9-813e-8d3c635f7778",
+                                            "node": {
+                                                "id": "3b0eaa50-45ca-44b1-8dda-b749540f28df",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Scottish"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "gd"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "f4b4dc19-70d5-411c-b296-2743d1f29393",
+                                            "node": {
+                                                "id": "e121ae79-0b88-4432-9049-a57f128f83d2",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Estonian"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "et"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "c55d2025-e721-4a91-b416-95a99c21e7fc",
+                                            "node": {
+                                                "id": "b5ab27bc-0506-4c18-be67-6a67c2c4dc5a",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Esperanto"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "eo"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "02c047c3-00f0-4ab7-9b0c-bf8cb4dea1bd",
+                                            "node": {
+                                                "id": "a7711feb-3ebf-4c29-9fcb-a6a3c35949ca",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Javanese"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "jv"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "ff5e7da8-7b0e-4f80-8b40-dfb31f78e11f",
+                                            "node": {
+                                                "id": "da8d3636-29a0-40c3-9d33-c4932d17c423",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": "Japanese"
+                                                    },
+                                                    {
+                                                        "fieldId": "cb5f05ed-701d-4970-b23c-6694ab9d2f7f",
+                                                        "value": "ja"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "74b9d932-b40a-48de-851c-834ca4eca518",
+                                            "node": {
+                                                "id": "8f6d92a3-7c65-425e-90a9-6f14789d1cc8",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "294e3494-a8fe-4194-8594-8693f44a7257",
+                                                        "value": ""
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "configuration": {
+                            "id": "ea545a71-8406-404b-a0bc-8d869707eed1",
+                            "name": "Language Codes",
+                            "owner": "65aea265b85de05286c4a65b",
+                            "type": "LOCAL"
+                        }
+                    }
+                }
+            ],
+            "customProperties": [],
+            "modules": [],
+            "usesDragDropUi": true,
+            "totalCopy": "0",
+            "totalStar": "0",
+            "starAction": "star",
+            "variables": {
+                "7e1a6617-42a8-4c73-8cab-2c47898f62ee": {
+                    "scope": "APP",
+                    "name": "source",
+                    "screenId": "9002f80f-141a-4a3b-b627-3dabe0caf369"
+                },
+                "18262dc9-72f1-412e-b488-412f214e10d9": {
+                    "scope": "APP",
+                    "name": "traget",
+                    "screenId": "9002f80f-141a-4a3b-b627-3dabe0caf369"
+                }
+            },
+            "defaultDesignerDevice": "PHONE",
+            "defaultDesignerOrientation": "PORTRAIT",
+            "schemaVersion": 2,
+            "organization": null,
+            "__typename": "Project"
+        }
+    }
+}
