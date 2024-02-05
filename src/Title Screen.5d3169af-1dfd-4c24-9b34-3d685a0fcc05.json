@@ -1,4 +1,5 @@
 {
+    "id": "5d3169af-1dfd-4c24-9b34-3d685a0fcc05",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -6,7 +7,7 @@
         "Height": "Fill container",
         "Width": "Fill container",
         "Layout": "column",
-        "BackgroundColor": "rgba(147, 187, 192, 1)",
+        "BackgroundColor": "rgba(208, 2, 27, 1)",
         "Justification": "center",
         "Alignment": "center",
         "Visible": true,
@@ -31,7 +32,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(147, 187, 192, 1)"
+            "backgroundColor": "rgba(208, 2, 27, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -281,7 +282,6 @@
             "name": "Title"
         }
     ],
-    "id": "5d3169af-1dfd-4c24-9b34-3d685a0fcc05",
     "thunkableVersion": 443,
     "name": "Title Screen"
 }

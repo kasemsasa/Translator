@@ -59,7 +59,7 @@
                     }
                 ]
             },
-            "figmaComponents": null,
+            "figmaComponents": {},
             "description": null,
             "icon": null,
             "projectName": "Translator App",
